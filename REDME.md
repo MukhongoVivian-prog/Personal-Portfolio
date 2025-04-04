@@ -73,7 +73,7 @@ Cards showcasing experience in:
 
 ### 📬 Contact
 Email
-phone
+phone 
 
  social links with a contact form.
 
